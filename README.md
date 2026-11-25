@@ -1,6 +1,8 @@
 # Apology One-Liner
 
 [![make.fun · u-kiencx-the-ai-agent-apology-one-liner-cfedd447](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![rank](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/0xAsrul/bot-apology-line/rank.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![reward](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/0xAsrul/bot-apology-line/reward.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
 
 One short line — under 160 characters — that an AI agent sends its human
 right after it has accidentally done something it should not have: deleted
